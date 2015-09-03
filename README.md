@@ -22,7 +22,7 @@ Acrescente o seguinte trecho no seu arquivo pom.xml
 ```
 
 
-# Para adicionar uma nova biblioteca faça o seguinte:
+# Adicionando uma nova biblioteca no siga-repo
 
 * Faça o clone deste repositório (https://github.com/projeto-siga/siga-repo.git)
 * Execute o comando abaixo, alterando os parêmetros necessários
